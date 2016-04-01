@@ -1,8 +1,8 @@
 ## Interface: 60000
-## Title: ZHud
+## Title: zhud
 ## Notes: Some enchantments for UI
 ## Version: 0.1
-## Author: Iner
+## Author: toltek
 ## DefaultState: Enabled
 
 ##zhud.lua

@@ -5,9 +5,8 @@
 ## Author: Iner
 ## DefaultState: Enabled
 
-##ZHud.lua
-##MoveFrames.lua
-PvPChecker.lua
-## ZHud.xml
+##zhud.lua
+##frames.lua
+pvpchecker.lua
 
 

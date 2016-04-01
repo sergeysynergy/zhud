@@ -1,0 +1,13 @@
+## Interface: 60000
+## Title: ZHud
+## Notes: Some enchantments for UI
+## Version: 0.1
+## Author: Iner
+## DefaultState: Enabled
+
+##ZHud.lua
+##MoveFrames.lua
+PvPChecker.lua
+## ZHud.xml
+
+
